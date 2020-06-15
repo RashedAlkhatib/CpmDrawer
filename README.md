@@ -18,7 +18,7 @@ Steps : </h1>
 <br>
 5- enter File name to save 
 <br>
-EX : pert.html /// must eclude extention
+EX : pert.html /// must enclude extention
 <br>
 6- Save text to file 
 <br>
