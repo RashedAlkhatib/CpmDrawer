@@ -3,10 +3,7 @@ Drawing critical path method and all tasks connected to they system , You can in
 <br>
  <h1>
 Steps : </h1>
- <br>
-*<br>
-*<br>
-*<br>
+ 
 <br>
 1- run CPM(1)
 <br>
@@ -23,4 +20,6 @@ EX : pert.html /// must enclude extention
 6- Save text to file 
 <br>
 7- open file you saved 
+<br><b> Contact me As you need 
+  <a href="http://rashedalkhatib.epizy.com/" >here</a>
  
