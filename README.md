@@ -1,10 +1,9 @@
 # CpmDrawer
 Drawing critical path method and all tasks connected to they system , You can include all the dependency you want 
 <br>
-*<br>
-*<br>
-Steps 
-*<br>
+ <h1>
+Steps : </h1>
+ <br>
 *<br>
 *<br>
 *<br>
