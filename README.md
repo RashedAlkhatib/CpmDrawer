@@ -1,27 +1,27 @@
 # CpmDrawer
 Drawing critical path method and all tasks connected to they system , You can include all the dependency you want 
-<b>
-*<b>
-*<b>
+<br>
+*<br>
+*<br>
 Steps 
-*<b>
-*<b>
-*<b>
-*<b>
-<b>
+*<br>
+*<br>
+*<br>
+*<br>
+<br>
 1- run CPM(1)
-<b>
+<br>
 2- select file to load [CPM(2)] 
-<b>
+<br>
 3- load selected file 
-<b>
+<br>
 4- modify tasks as you wish text to save 
-<b>
+<br>
 5- enter File name to save 
-<b>
+<br>
 EX : pert.html /// must eclude extention
-<b>
+<br>
 6- Save text to file 
-<b>
+<br>
 7- open file you saved 
  
