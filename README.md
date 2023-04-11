@@ -21,5 +21,5 @@ EX : pert.html /// must enclude extention
 <br>
 7- open file you saved 
 <br><b> Contact me As you need 
-  <a href="http://rashedalkhatib.epizy.com/" >here</a>
+  <a href="http://rashedalkhatib.net" >here</a>
  
